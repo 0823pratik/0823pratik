@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 # Hi, I'm Pratik Raj 👋
 
 **B.Tech | Electrical Engineering | IIT Tirupati (2023-27)**  
@@ -48,4 +51,6 @@
 ---
 
 > *"Building for the future, one project at a time."*
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
