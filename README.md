@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-# Hi, I'm Pratik Raj 👋
+<h1 >
+  Hi, I'm Pratik Raj 👋
+</h1>
 
 **B.Tech | Electrical Engineering | IIT Tirupati (2023-27)**  
 🚀 Passionate about Frontend Development, Embedded Systems, and Robotics.  
