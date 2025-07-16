@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0823pratik&show_icons=true&theme=radical" alt="Pratik's GitHub stats" />
   <br />
-<img src="https://streak-stats.demolab.com/?user=0823pratik&theme=radical" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=0823pratik)](https://git.io/streak-stats)
 
 <!--   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0823pratik&layout=compact&theme=radical" alt="Top Languages" /> -->
