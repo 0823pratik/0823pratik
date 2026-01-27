@@ -6,7 +6,7 @@
 </h1>
 
 **B.Tech | Electrical Engineering | IIT Tirupati (2023-27)**  
-🚀 Passionate about Frontend Development, Embedded Systems, and Robotics.  
+🚀 Passionate about Wireless Communications, Embedded Systems, and Robotics.  
 🌐 [LinkedIn](https://www.linkedin.com/in/pratik-raj-295472280/) | [GitHub](https://github.com/0823pratik)
 
 ---
@@ -14,6 +14,8 @@
 ## 🛠 About Me
 - 📚 Undergraduate at **IIT Tirupati**, exploring tech, engineering, and innovation.
 - 🏆 Contributor at **Summer of Bitcoin 2025** — open-source contributions to Bitcoin ecosystem.
+- 📚 Currenlty working on Adaptive Spectrum Sensing for O-RAN for NextG networks.
+- 🏆 Developed multimodal ML pipelines for 6G mmWave systems (CONVERGE ICASSP’26 Challenge).
 - ✨ Frontend Developer at **Almanest** — launched for 1000+ students ([Website](https://www.almanest.in)).
 - 🚀 Robotics & Avionics systems enthusiast — ISRO Challenge, Rocket telemetry, Autonomous drones.
 - 🌟 Astronomy & health outreach volunteer.
@@ -21,6 +23,8 @@
 ---
 
 ## 🧩 Key Projects
+- **Adaptive Spectrum Sensing for O-RAN for NextG networks** - Not Public Yet
+- **CONVERGE ICASSP’26 SP Grand Challenge (6G multimodal learning)** - not public yet
 - **Almanest** – React.js, TailwindCSS – [www.almanest.in](https://www.almanest.in)
 - **Tirutsava '24 Website** – [www.tirutsava.com](https://www.tirutsava.com)
 - **ISRO Robotics Challenge (USRC'25)** – Autonomous navigation system.
