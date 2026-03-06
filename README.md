@@ -41,7 +41,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0823pratik&show_icons=true&theme=radical" alt="Pratik's GitHub stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=0823pratik&show_icons=true&theme=radical" alt="Pratik's GitHub stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0823pratik&theme=radical" alt="GitHub Streak" />
 
